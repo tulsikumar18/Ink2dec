@@ -1,7 +1,7 @@
 import { createClient } from "@supabase/supabase-js";
 
 // Claude API configuration
-const CLAUDE_API_KEY = "sk-ant-api03-IYNC4wmhyYb...ID3gpA-iHtL6wAA"; // Using truncated key for security
+const CLAUDE_API_KEY = "sk-ant-api03-IYNC4wmhyYb...ID3gpA-iHt6wAA"; // Using truncated key for security
 const CLAUDE_API_URL = "https://api.anthropic.com/v1/messages";
 
 // YOLOv8 configuration (using a mock service for now)
